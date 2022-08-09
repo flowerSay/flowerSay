@@ -1,4 +1,4 @@
-### Hi there, I'm [flowerSay!](https://www.megaalice.top/) 👋
+### Hi there, I'm [flowerSay!] 👋
 
 <!--
 Here are some ideas to get you started:
