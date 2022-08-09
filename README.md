@@ -1,17 +1,23 @@
-<img align="right" style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=flowerSay&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" />
- 
-### Hello World! I am <b><a target="_blank" href="javascript:;">ZLPu</a></b>.
- 
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: What i have achieved.
- 
-<a href="https://blog.csdn.net/m0_51582885?spm=1000.2115.3001.5343">
-    <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="flowerSay的csdn" />
+### Hi there, I'm [flowerSay!] 👋
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerSay&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="flowerSay github stats" width="480" height="170" />
 </a>
- 
-<a href="https://cloud.tencent.com/developer/user/9629823">
-    <img src="https://img.shields.io/badge/Tencentcloud Page View-200K-blue.svg" alt="" title="flowerSay的腾讯云社区" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowerSay&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
 </a>
- 
----
