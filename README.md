@@ -1,6 +1,5 @@
 ### Hi there, I'm [flowerSay!](https://github.com/flowerSay)👋
 
-- 🌱 I’m currently learning ...
 
 <!--
 Here are some ideas to get you started:
