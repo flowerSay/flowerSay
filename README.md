@@ -1,4 +1,6 @@
-### Hi there, I'm [flowerSay!] 👋
+### Hi there, I'm [flowerSay!](https://github.com/flowerSay)👋
+
+- 🌱 I’m currently learning ...
 
 <!--
 Here are some ideas to get you started:
@@ -18,6 +20,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerSay&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="flowerSay github stats" width="480" height="170" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowerSay&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
-</a>
+
