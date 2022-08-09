@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerSay&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="flowerSay github stats" width="490" height="160" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowerSay&layout=compact&theme=material-palenight" alt="Top Langs" width="390" height="160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowerSay&layout=compact&theme=material-palenight" alt="Top Langs" width="290" height="160" />
 </a>
